@@ -1,0 +1,16 @@
+.title {
+  font-size: 50px;
+  color: black;
+}
+.title .smalltext {
+  font-size: 20px;
+}
+.title .smalltext:hover {
+  color: red;
+}
+.title.smalltext {
+  color: red;
+}
+.title:hover {
+  color: blue;
+}
